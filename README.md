@@ -1,4 +1,4 @@
-# Cypher-chatbot 
+# ⭐Cypher-chatbot⭐ 
 Cypher - Cloud Security Comparison Assistant (Botpress)
 Welcome to the world of Cypher!
 
@@ -42,6 +42,7 @@ Limited Knowledge Base: The chatbot is under development and is constantly learn
 
 Work in Progress: The chatbot is still under active development. You might encounter occasional bugs or limitations in functionality. We appreciate your understanding and patience as we continue to improve it.
 
+👇👇👇👇👇👇👇
 
 Please note: This is a basic README file
 to use chatbot check link in main file 
