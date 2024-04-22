@@ -37,9 +37,10 @@ Custom logic for data analysis and recommendation generation.
 The specific implementation details will depend on the chosen APIs and your desired level of customization.
 We hope Cypher empowers you to make informed decisions regarding your cloud security needs!
 
-Please note: This is a basic README file. You can further customize it by including:
+Limitation
+Limited Knowledge Base: The chatbot is under development and is constantly learning. Its knowledge base may not be exhaustive, and it might not always provide the most comprehensive answers to complex questions.
 
-Authors and contributors
-License information
-Troubleshooting tips
-Links to relevant documentation or resources
+Work in Progress: The chatbot is still under active development. You might encounter occasional bugs or limitations in functionality. We appreciate your understanding and patience as we continue to improve it.
+
+
+Please note: This is a basic README file
